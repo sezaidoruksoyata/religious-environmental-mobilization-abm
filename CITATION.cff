@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this model or repository, please cite the associated article."
+title: "Religious Environmental Mobilization ABM"
+type: software
+authors:
+  - family-names: "Soyata"
+    given-names: "Sezai Doruk"
+    affiliation: "Koç University"
+repository-code: "https://github.com/sezaidoruksoyata/religious-environmental-mobilization-abm"
+abstract: "This repository contains the NetLogo model, simulation outputs, figures, and supplementary documentation for a theoretical agent-based model of religious environmental mobilization."
+keywords:
+  - agent-based modeling
+  - NetLogo
+  - computational social science
+  - sociology of religion
+  - climate mobilization
+  - religious environmentalism
