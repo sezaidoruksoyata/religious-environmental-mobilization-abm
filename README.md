@@ -54,7 +54,7 @@ Each main scenario is run for 150 ticks and repeated 30 times. A threshold sensi
 
 ## Data
 
-The `data` folder contains two raw simulation output files:
+The `Data` folder contains two raw simulation output files:
 
 - `main_scenarios_raw.csv`
 - `threshold_sensitivity_raw.csv`
@@ -63,15 +63,15 @@ These files were exported from NetLogo BehaviorSpace. No human-subject data were
 
 ## How to run the model
 
-1. Open the NetLogo model file in the `model` folder.
+1. Open the NetLogo Model file in the `Model` folder.
 2. Open BehaviorSpace in NetLogo.
 3. Run the `main_scenarios` experiment to reproduce the main scenario results.
 4. Run the `threshold_sensitivity` experiment to reproduce the threshold sensitivity results.
-5. Compare the exported outputs with the files in the `data` folder.
+5. Compare the exported outputs with the files in the `Data` folder.
 
 ## Supplementary material
 
-The `supplement` folder contains the ODD protocol and model documentation.
+The `Supplement` folder contains the ODD protocol and model documentation.
 
 ## Citation
 
