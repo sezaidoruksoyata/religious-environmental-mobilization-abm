@@ -17,10 +17,10 @@ The model is designed for mechanism clarification rather than empirical predicti
 
 The repository contains four main folders:
 
-- `model/` contains the NetLogo model file.
-- `data/` contains the raw simulation outputs exported from NetLogo BehaviorSpace.
-- `figures/` contains PNG and PDF versions of the manuscript figures.
-- `supplement/` contains the ODD protocol and model documentation.
+- `Model/` contains the NetLogo model file.
+- `Data/` contains the raw simulation outputs exported from NetLogo BehaviorSpace.
+- `Figures/` contains PNG and PDF versions of the manuscript figures.
+- `Supplement/` contains the ODD protocol and model documentation.
 
 ## Model
 
