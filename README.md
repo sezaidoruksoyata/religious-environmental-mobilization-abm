@@ -2,7 +2,7 @@
 
 This repository contains the NetLogo model, simulation outputs, figures, and supplementary documentation for the article:
 
-**From Religious Environmental Belief to Climate Mobilization: A Theoretical Agent-Based Model**
+**From Religious Environmental Belief to Environmental Mobilization: A Theoretical Agent-Based Model**
 
 Author: Sezai Doruk Soyata  
 Affiliation: Department of Sociology, Koç University, Istanbul, Turkey
