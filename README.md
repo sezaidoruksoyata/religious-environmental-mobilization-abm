@@ -9,9 +9,9 @@ Affiliation: Department of Sociology, Koç University, Istanbul, Turkey
 
 ## Overview
 
-This project develops a theoretical, literature-informed agent-based model of religious environmental mobilization. The model examines when religious environmental belief remains symbolic and when it becomes collective climate mobilization.
+This project develops a theoretical, literature-informed agent-based model of religious environmental mobilization. The model examines when religious environmental belief remains symbolic and when it becomes collective environmental mobilization.
 
-The model is designed for mechanism clarification rather than empirical prediction. It does not estimate real-world levels of religious climate activism in any specific country, religious tradition, organization, or climate movement.
+The model is designed for mechanism clarification rather than empirical prediction. It does not estimate real-world levels of religious environmental activism in any specific country, religious tradition, organization, or environmental movement.
 
 ## Repository structure
 
